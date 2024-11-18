@@ -1,0 +1,8 @@
+.T-container{
+    display: inline;
+    justify-content: space-between;
+    text-align:center;
+    height: 50px;
+    width: 200px;
+    gap: 30px;
+}

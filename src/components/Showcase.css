@@ -1,0 +1,30 @@
+
+.S-container{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.S-container .image-1{
+    
+    width: 50%;
+}
+.M-container .image-2{
+
+    width: 50%;
+    
+}
+
+.L-container .image-3{
+    
+    width: 50%;
+}
+.M-container{
+    display: flex;
+}
+.L-container{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.p-container{
+    padding-top: 90px;
+}
